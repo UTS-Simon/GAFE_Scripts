@@ -1,2 +1,2 @@
 # GAFE_Scripts
-A collection of free (as in speech and beer) 
+A collection of Google Apps scripts with a focus on education.
